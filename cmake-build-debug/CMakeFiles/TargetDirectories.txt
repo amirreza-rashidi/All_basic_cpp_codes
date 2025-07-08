@@ -1,0 +1,3 @@
+C:/Users/Asus/Desktop/all-cpp/cmake-build-debug/CMakeFiles/all_cpp.dir
+C:/Users/Asus/Desktop/all-cpp/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/Desktop/all-cpp/cmake-build-debug/CMakeFiles/rebuild_cache.dir
